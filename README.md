@@ -60,7 +60,6 @@ learncpp/
 ├── AppendixC_Final_Notes/
 └── AppendixD_Deprecated/
 
-
 > ✨ *Not all folders will be created immediately. They will appear as I progress through the chapters.*
 
 ---
