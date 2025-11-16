@@ -71,10 +71,6 @@ Each chapter includes:
 g++ -std=c++20 filename.cpp -o program
 ./program
 
-### Using Clang++
-clang++ -std=c++20 filename.cpp -o program
-./program
-
 Future Support (Planned)
 
 CMake project structure
