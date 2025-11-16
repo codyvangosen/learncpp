@@ -83,7 +83,7 @@ VS Code tasks.json / launch.json templates
 
 Unit tests for exercises
 
-🚀 Roadmap / Future Enhancements
+## 🚀 Roadmap / Future Enhancements
 
  Add summaries for each chapter
 
@@ -95,13 +95,13 @@ Unit tests for exercises
 
  Add example projects using concepts learned
 
-📜 Disclaimer
+## 📜 Disclaimer
 
 This repository does not redistribute LearnCpp content.
 All code is written by me while learning from the publicly available tutorials at https://www.learncpp.com
 .
 
-⭐ Support or Use This Repo
+## ⭐ Support or Use This Repo
 
 If you find this structure helpful:
 
