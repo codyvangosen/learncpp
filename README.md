@@ -23,42 +23,42 @@ Each chapter includes:
 ---
 
 ## 📂 Repository Structure
-learncpp/
-│
-├── Chapter00_Introduction/
-├── Chapter01_CPP_Basics/
-├── Chapter02_Functions_Files/
-├── Chapter03_Debugging/
-├── Chapter04_Fundamental_Data_Types/
-├── Chapter05_Constants_Strings/
-├── Chapter06_Operators/
-├── Chapter07_Scope_Duration_Linkage/
-├── Chapter08_Control_Flow/
-├── Chapter09_Error_Handling/
-├── Chapter10_Type_Conversions/
-├── Chapter11_Function_Overloading_Templates/
-├── Chapter12_Pointers_References/
-├── Chapter13_Enums_Structs/
-├── Chapter14_Intro_to_Classes/
-├── Chapter15_More_on_Classes/
-├── Chapter16_std_vector/
-├── Chapter17_Arrays/
-├── Chapter18_Iterators_Algorithms/
-├── Chapter19_Dynamic_Memory/
-├── Chapter20_Advanced_Functions/
-├── Chapter21_Operator_Overloading/
-├── Chapter22_Move_Semantics_SmartPointers/
-├── Chapter23_Object_Relationships/
-├── Chapter24_Inheritance/
-├── Chapter25_Virtual_Functions/
-├── Chapter26_Templates_Classes/
-├── Chapter27_Exceptions/
-├── Chapter28_Input_Output/
-│
-├── AppendixA_Libraries/
-├── AppendixB_CPP_Updates/
-├── AppendixC_Final_Notes/
-└── AppendixD_Deprecated/
+
+| Chapter | Folder |
+|--------|--------|
+| Introduction | `Chapter00_Introduction/` |
+| C++ Basics | `Chapter01_CPP_Basics/` |
+| Functions & Files | `Chapter02_Functions_Files/` |
+| Debugging | `Chapter03_Debugging/` |
+| Data Types | `Chapter04_Fundamental_Data_Types/` |
+| Constants & Strings | `Chapter05_Constants_Strings/` |
+| Operators | `Chapter06_Operators/` |
+| Scope & Linkage | `Chapter07_Scope_Duration_Linkage/` |
+| Control Flow | `Chapter08_Control_Flow/` |
+| Error Handling | `Chapter09_Error_Handling/` |
+| Type Conversions | `Chapter10_Type_Conversions/` |
+| Function Overloading | `Chapter11_Function_Overloading_Templates/` |
+| Pointers & References | `Chapter12_Pointers_References/` |
+| Enums & Structs | `Chapter13_Enums_Structs/` |
+| Intro to Classes | `Chapter14_Intro_to_Classes/` |
+| More Classes | `Chapter15_More_on_Classes/` |
+| std::vector | `Chapter16_std_vector/` |
+| Arrays | `Chapter17_Arrays/` |
+| Iterators | `Chapter18_Iterators_Algorithms/` |
+| Dynamic Memory | `Chapter19_Dynamic_Memory/` |
+| Advanced Functions | `Chapter20_Advanced_Functions/` |
+| Operator Overloading | `Chapter21_Operator_Overloading/` |
+| Move Semantics | `Chapter22_Move_Semantics_SmartPointers/` |
+| Object Relationships | `Chapter23_Object_Relationships/` |
+| Inheritance | `Chapter24_Inheritance/` |
+| Virtual Functions | `Chapter25_Virtual_Functions/` |
+| Templates | `Chapter26_Templates_Classes/` |
+| Exceptions | `Chapter27_Exceptions/` |
+| I/O | `Chapter28_Input_Output/` |
+| Library Reference | `AppendixA_Libraries/` |
+| Updates | `AppendixB_CPP_Updates/` |
+| Final Notes | `AppendixC_Final_Notes/` |
+| Deprecated | `AppendixD_Deprecated/` |
 
 > ✨ *Not all folders will be created immediately. They will appear as I progress through the chapters.*
 
