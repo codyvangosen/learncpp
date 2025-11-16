@@ -71,7 +71,7 @@ Each chapter includes:
 g++ -std=c++20 filename.cpp -o program
 ./program
 
-Using Clang++
+### Using Clang++
 clang++ -std=c++20 filename.cpp -o program
 ./program
 
